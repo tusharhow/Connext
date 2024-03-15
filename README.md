@@ -27,7 +27,7 @@ In `build.gradle` of app module, include this dependency
 
 ```gradle
 dependencies {
-    implementation ("com.tusharhow.connext:Connext:1.0.0")
+    implementation ("com.github.tusharhow:Connext:1.0.0")
 }
 ```
 
